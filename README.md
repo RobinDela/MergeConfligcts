@@ -1,1 +1,2 @@
 # MergeConfligcts REMOTE
+REMOTE
